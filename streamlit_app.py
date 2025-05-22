@@ -4,4 +4,4 @@ st.title("🎈 giadudung")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
-st.image( "C47C0122-CAD3-4379-BB19-92831F042FA9.jpeg", width=200)
+st.image( "1644B700-A072-4E15-8C2F-D59632D42FB1.jpeg", width=200)
